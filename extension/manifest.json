@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GhostRef",
+  "version": "1.0.0",
+  "description": "AI-powered networking assistant",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "activeTab"
+  ]
+}
